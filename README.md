@@ -8,3 +8,11 @@
 | 29.09.2020 | [Matrix multiplication. QR factorization](./lectures/lecture4/lecture4.ipynb) | [Seminar 4](./seminars/seminar4/seminar4.ipynb) | 
 | 06.10.2020 | [Eigenvalues and eigenvectors. Schur decomposition and how we compute it](./lectures/lecture5/lecture5.ipynb) | [Seminar 5](./seminars/seminar5/seminar5.ipynb) |
 | 13.10.2020 | [SVD and how we compute it](./lectures/lecture6/lecture6.ipynb) | [Seminar 6](./seminars/seminar6/seminar6.ipynb) |
+| 20.10.2020 | [Sparse matrices and direct methods for large sparse linear systems. Spectral partitioning and Fiedler vector](./lectures/lecture7/lecture7.ipynb) | [Seminar 7](./seminars/seminar7/seminar7.ipynb) |
+| 27.10.2020 | [Introduction to iterative methods for linear systems](./lectures/lecture8/lecture8.ipynb) | Seminar 8 | |
+| 03.11.2020 | [Great iterative methods](./lectures/lecture9/lecture9.ipynb) | [Seminar 9](./seminars/seminar9/seminar9.ipynb) | |
+| 10.11.2020 | [Iterative methods and preconditioners](./lectures/lecture10/lecture10.ipynb) | [Seminar 10](./seminars/seminar10/seminar10.ipynb) | [HW2](./hw/hw2/hw2.ipynb) <br> (Deadline: December, 7, 02:00) 
+| 17.11.2020 | [Iterative methods for partial eigenvalue problem](./lectures/lecture11/lecture11.ipynb) | [Seminar 11](./seminars/seminar11/seminar11.ipynb) |
+| 24.11.2020 | [Structured matrices, convolutions, FFT, Toeplitz matrices](./lectures/lecture12/lecture-12.ipynb) | [Seminar 12](./seminars/seminar12/seminar12.ipynb) |
+| 01.12.2020 | [Matrix functions and matrix equations](./lectures/lecture13/lecture-13.ipynb) | Seminar 13 | |
+| 08.12.2020 | [Tensor decompositions](./lectures/lecture14/lecture14.ipynb) | Seminar 14 | |
